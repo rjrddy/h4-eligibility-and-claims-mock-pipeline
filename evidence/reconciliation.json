@@ -1,0 +1,726 @@
+{
+  "claims": [
+    {
+      "claim_id": "SYN-0",
+      "amount_cents": 1000,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-1",
+      "amount_cents": 1001,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-2",
+      "amount_cents": 1002,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-3",
+      "amount_cents": 1003,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-4",
+      "amount_cents": 1004,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-5",
+      "amount_cents": 1005,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-6",
+      "amount_cents": 1006,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-7",
+      "amount_cents": 1007,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-8",
+      "amount_cents": 1008,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-9",
+      "amount_cents": 1009,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-10",
+      "amount_cents": 1010,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-11",
+      "amount_cents": 1011,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-12",
+      "amount_cents": 1012,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-13",
+      "amount_cents": 1013,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-14",
+      "amount_cents": 1014,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-15",
+      "amount_cents": 1015,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-16",
+      "amount_cents": 1016,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-17",
+      "amount_cents": 1017,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-18",
+      "amount_cents": 1018,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-19",
+      "amount_cents": 1019,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-20",
+      "amount_cents": 1020,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-21",
+      "amount_cents": 1021,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-22",
+      "amount_cents": 1022,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-23",
+      "amount_cents": 1023,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-24",
+      "amount_cents": 1024,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-25",
+      "amount_cents": 1025,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-26",
+      "amount_cents": 1026,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-27",
+      "amount_cents": 1027,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-28",
+      "amount_cents": 1028,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-29",
+      "amount_cents": 1029,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-30",
+      "amount_cents": 1030,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-31",
+      "amount_cents": 1031,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-32",
+      "amount_cents": 1032,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-33",
+      "amount_cents": 1033,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-34",
+      "amount_cents": 1034,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-35",
+      "amount_cents": 1035,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-36",
+      "amount_cents": 1036,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-37",
+      "amount_cents": 1037,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-38",
+      "amount_cents": 1038,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-39",
+      "amount_cents": 1039,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-40",
+      "amount_cents": 1040,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-41",
+      "amount_cents": 1041,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-42",
+      "amount_cents": 1042,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-43",
+      "amount_cents": 1043,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-44",
+      "amount_cents": 1044,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-45",
+      "amount_cents": 1045,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-46",
+      "amount_cents": 1046,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-47",
+      "amount_cents": 1047,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-48",
+      "amount_cents": 1048,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-49",
+      "amount_cents": 1049,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-50",
+      "amount_cents": 1050,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-51",
+      "amount_cents": 1051,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-52",
+      "amount_cents": 1052,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-53",
+      "amount_cents": 1053,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-54",
+      "amount_cents": 1054,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-55",
+      "amount_cents": 1055,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-56",
+      "amount_cents": 1056,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-57",
+      "amount_cents": 1057,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-58",
+      "amount_cents": 1058,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-59",
+      "amount_cents": 1059,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-60",
+      "amount_cents": 1060,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-61",
+      "amount_cents": 1061,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-62",
+      "amount_cents": 1062,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-63",
+      "amount_cents": 1063,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-64",
+      "amount_cents": 1064,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-65",
+      "amount_cents": 1065,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-66",
+      "amount_cents": 1066,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-67",
+      "amount_cents": 1067,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-68",
+      "amount_cents": 1068,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-69",
+      "amount_cents": 1069,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-70",
+      "amount_cents": 1070,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-71",
+      "amount_cents": 1071,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-72",
+      "amount_cents": 1072,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-73",
+      "amount_cents": 1073,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-74",
+      "amount_cents": 1074,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-75",
+      "amount_cents": 1075,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-76",
+      "amount_cents": 1076,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-77",
+      "amount_cents": 1077,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-78",
+      "amount_cents": 1078,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-79",
+      "amount_cents": 1079,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-80",
+      "amount_cents": 1080,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-81",
+      "amount_cents": 1081,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-82",
+      "amount_cents": 1082,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-83",
+      "amount_cents": 1083,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-84",
+      "amount_cents": 1084,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-85",
+      "amount_cents": 1085,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-86",
+      "amount_cents": 1086,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-87",
+      "amount_cents": 1087,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-88",
+      "amount_cents": 1088,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-89",
+      "amount_cents": 1089,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-90",
+      "amount_cents": 1090,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-91",
+      "amount_cents": 1091,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-92",
+      "amount_cents": 1092,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-93",
+      "amount_cents": 1093,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-94",
+      "amount_cents": 1094,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-95",
+      "amount_cents": 1095,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-96",
+      "amount_cents": 1096,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-97",
+      "amount_cents": 1097,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-98",
+      "amount_cents": 1098,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-99",
+      "amount_cents": 1099,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-100",
+      "amount_cents": 1100,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-101",
+      "amount_cents": 1101,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-102",
+      "amount_cents": 1102,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-103",
+      "amount_cents": 1103,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-104",
+      "amount_cents": 1104,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-105",
+      "amount_cents": 1105,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-106",
+      "amount_cents": 1106,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-107",
+      "amount_cents": 1107,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-108",
+      "amount_cents": 1108,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-109",
+      "amount_cents": 1109,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-110",
+      "amount_cents": 1110,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-111",
+      "amount_cents": 1111,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-112",
+      "amount_cents": 1112,
+      "status": "denied",
+      "eligible": false
+    },
+    {
+      "claim_id": "SYN-113",
+      "amount_cents": 1113,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-114",
+      "amount_cents": 1114,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-115",
+      "amount_cents": 1115,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-116",
+      "amount_cents": 1116,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-117",
+      "amount_cents": 1117,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-118",
+      "amount_cents": 1118,
+      "status": "accepted",
+      "eligible": true
+    },
+    {
+      "claim_id": "SYN-119",
+      "amount_cents": 1119,
+      "status": "denied",
+      "eligible": false
+    }
+  ],
+  "pending_before": 120,
+  "discrepancies": 0
+}

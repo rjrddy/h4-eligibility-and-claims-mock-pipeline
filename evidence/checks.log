@@ -1,0 +1,16 @@
+/Users/rajreddy/dev/outreach/projects/h4-eligibility-and-claims-mock-pipeline/.venv/bin/python -m ruff check src tests
+All checks passed!
+/Users/rajreddy/dev/outreach/projects/h4-eligibility-and-claims-mock-pipeline/.venv/bin/python -m ruff format --check src tests
+2 files already formatted
+/Users/rajreddy/dev/outreach/projects/h4-eligibility-and-claims-mock-pipeline/.venv/bin/python -m pytest -q
+..                                                                       [100%]
+2 passed in 0.25s
+/Users/rajreddy/dev/outreach/projects/h4-eligibility-and-claims-mock-pipeline/.venv/bin/python src/main.py > evidence/bench.json
+{
+  "synthetic_claims": 120,
+  "payer_timeouts_injected": 35,
+  "discrepancies_after_reconciliation": 0,
+  "pending_before_reconciliation": 120,
+  "http_attempts": 275,
+  "duplicate_payer_claims": 0
+}

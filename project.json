@@ -1,0 +1,26 @@
+{
+  "id": "H4",
+  "name": "Eligibility and claims mock pipeline",
+  "problem": "Mock payer API integration with retries, idempotency and reconciliation of claims status.",
+  "results": [
+    [
+      "Synthetic claims reconciled",
+      "synthetic_claims",
+      ""
+    ],
+    [
+      "Injected payer timeouts",
+      "payer_timeouts_injected",
+      ""
+    ],
+    [
+      "Reconciliation discrepancies",
+      "discrepancies_after_reconciliation",
+      ""
+    ]
+  ],
+  "diagram": "SyntheticClaim --> BoundedHTTPRetries --> MockPayerIdempotency --> StatusPolling --> Reconciliation",
+  "limits": "Synthetic eligibility/claim data only. A real FastAPI mock and HTTP client ASGI transport exercise request parsing, idempotency conflicts and polling. Chaos injects both pre-response timeouts and ambiguous POST timeouts after the payer commits. No real payer, billing, PHI, insurance decision or clinical workflow is used. In-memory stores demonstrate the protocol; persistence, authentication and cross-process durability are not covered. evidence/reconciliation.json includes terminal statuses, pending-before count and discrepancies. Eligibility is a declared deterministic fixture rule, not a benefits determination.",
+  "next": "Persist request/receipt state and add reconciliation of partial outages across multiple mock payers.",
+  "status": "done"
+}
