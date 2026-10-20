@@ -2,14 +2,16 @@ import asyncio
 import httpx
 from main import Claim, Payer, retry
 import pytest
+from fastapi import HTTPException
 
 
 def test_payer_idempotency_and_conflict():
     payer = Payer()
     claim = Claim(claim_id="SYN-1", amount_cents=100)
     assert payer.submit(claim) == payer.submit(claim)
-    with pytest.raises(Exception):
+    with pytest.raises(HTTPException) as failure:
         payer.submit(Claim(claim_id="SYN-1", amount_cents=200))
+    assert failure.value.status_code == 409
     assert len(payer.claims) == 1
 
 
